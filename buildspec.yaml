@@ -11,7 +11,7 @@ phases:
      - unzip -o $HOME/.sonar/sonar-scanner.zip -d $HOME/.sonar/
      - export PATH=$SONAR_SCANNER_HOME/bin:$PATH
      - export SONAR_SCANNER_OPTS="-Xmx2g"
-     - sudo yum install jq >/dev/null
+     - apt-get install -y jq
  build:
    commands:
      - echo "Running SonarCloud Code Analysis"
