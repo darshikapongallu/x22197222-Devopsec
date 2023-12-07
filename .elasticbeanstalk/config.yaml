@@ -1,0 +1,12 @@
+branch-defaults:
+  default:
+    environment: ebvirt1-env
+    group_suffix: null 
+global:
+  application _name: elernet branch: null default_ec2_keyname: null
+  default_platform: Python 3.7 running on 64bit Amazon Linux 2
+  default_region: us-west-2
+  include_git
+  _submodules: true
+  instance_profile: null platform_name: null platform_version: null profile: eb-cli repository: null sc: null 
+  workspace_type: Application
