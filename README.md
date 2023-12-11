@@ -1,7 +1,6 @@
 # x22197222-SchoolManagementSystem
 School Management System Project with CI/CD Pipeline - Devops project
 
-# x22197222-Gas-Portal-frontend
 ## AWS Hosted URL: http://devopsecapp2-env.eba-m3mh3gz5.eu-west-1.elasticbeanstalk.com/
   
 #### Technologies Used:
