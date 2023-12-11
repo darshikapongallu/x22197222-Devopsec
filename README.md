@@ -2,7 +2,7 @@
 School Management System Project with CI/CD Pipeline - Devops project
 
 # x22197222-Gas-Portal-frontend
-## AWS Hosted URL: http://x22197222-ireland-gas-portal.s3-website-eu-west-1.amazonaws.com/index.html](http://devopsecapp2-env.eba-m3mh3gz5.eu-west-1.elasticbeanstalk.com/
+## AWS Hosted URL: http://devopsecapp2-env.eba-m3mh3gz5.eu-west-1.elasticbeanstalk.com/
   
 #### Technologies Used:
 ##### FrontEnd:
